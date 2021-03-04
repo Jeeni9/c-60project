@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+.line{
+    width: 180px;
+    height: 6px;
+   margin: auto;
+    background-color: red;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
+
